@@ -1,11 +1,12 @@
 Package: Bios524hwk6
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Homework Functions
 Version: 0.1.0
-Author: Who wrote it
+Author: Samuel Soon
 Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Includes functions for pythagorean theorem and trimmed mean 
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
